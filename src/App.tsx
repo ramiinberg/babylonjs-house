@@ -1,7 +1,8 @@
 import './App.css'
+import BabylonExample from './components/BabylonExample'
 
 function App() {
-  return <div className='App'>Testi</div>
+  return <BabylonExample />
 }
 
 export default App
