@@ -2,7 +2,11 @@ import './App.css'
 import BabylonExample from './components/BabylonExample'
 
 function App() {
-  return <BabylonExample />
+  return (
+    <div className='app'>
+      <BabylonExample />
+    </div>
+  )
 }
 
 export default App
