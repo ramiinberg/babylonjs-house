@@ -7,8 +7,6 @@ import { PhysicsImpostor } from '@babylonjs/core/Physics/physicsImpostor'
 
 import { Scene, Engine } from 'react-babylonjs'
 
-import './App.css'
-
 import * as CANNON from 'cannon'
 import { Color3 } from '@babylonjs/core'
 import BouncySphere from './BouncySphere'
